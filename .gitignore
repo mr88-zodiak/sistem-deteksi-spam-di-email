@@ -1,0 +1,15 @@
+data_clean\dataset_gmail.csv
+data_clean\dataset_spam.csv
+data_clean\dataset_spam_cleaned.csv
+data_clean\email_spam_indo.csv
+bersihkan_data.py
+labeling.py
+preproces_tingkat_lanjut.py
+scraping.py
+woila.py
+data
+.github
+__pycache__/
+__pycache__/
+*.pyc
+modul/
